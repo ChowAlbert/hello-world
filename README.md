@@ -1,2 +1,2 @@
-# hello-world
-this is my first try on github
+#have commit the first assignment
+see assignment1 
