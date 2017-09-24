@@ -1,2 +1,2 @@
-#have commit the first assignment
+#have committed the first assignment
 see assignment1 
