@@ -1,4 +1,6 @@
-#have committed the first assignment\n
+#have committed the first assignment
+
 see assignment1 
-#have committed the second assignment\n
+#have committed the second assignment
+
 see assignment2
